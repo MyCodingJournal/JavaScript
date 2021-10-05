@@ -9,4 +9,4 @@ All JavaScript repo in My Coding Journal.
 - https://github.com/MyCodingJournal/Arrays-in-JavaScript
 - https://github.com/MyCodingJournal/Functions-in-JavaScript
 - https://github.com/MyCodingJournal/phase-0-the-dom-is-a-tree
-- 
+

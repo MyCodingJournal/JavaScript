@@ -1,6 +1,5 @@
 # JavaScript
 All JavaScript repo in My Coding Journal.<br>
-JavaScript: https://github.com/My-JavaScript-Repo
 
 - https://github.com/MyCodingJournal/DOM
 - https://github.com/MyCodingJournal/Traversing-Nested-Objects
